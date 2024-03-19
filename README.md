@@ -5,8 +5,8 @@
 
 Term: Spring 2024
 
-+ Team ##
-+ Team members
++ Group 2
++ Group members
 	+ Wenjun Yang
 	+ Licheng Wu
 	+ Forain Zhang
