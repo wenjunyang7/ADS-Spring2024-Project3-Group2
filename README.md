@@ -1,17 +1,17 @@
-# Project: Weakly supervised learning-- label noise and correction
+# Project 3 : Weakly supervised learning-- label noise and correction
 
 
 ### [Full Project Description](doc/project3_desc.md)
 
-Term: Fall 2022
+Term: Spring 2024
 
 + Team ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Wenjun Yang
+	+ Licheng Wu
+	+ Forain Zhang
+	+ Yiwei Jiang
+
 
 + Project summary: In this project, we created ...
 	
