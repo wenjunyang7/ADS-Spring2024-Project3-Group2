@@ -18,7 +18,7 @@ Term: Spring 2024
 + Model 2 corrects noisy labels using a specialized neural network, combining feature extraction with input noise handling. Then utilizes data augmentation, learning rate adjustments, and model checkpointing to improve performance, ultimately applying corrected labels to refine training on a mix of verified and initially noisy data, validated through K-Fold cross-validation.
 	
 **Contribution statement**:  Yiwei Jiang（33.3%）：Develop model1 & 2 ; evaluate model1&2  Forain Zhang（33.3%）：Develop model1，Evaluate baseline model  Wenjun Yang（33.3%）Make slides;presentation; Develop model1
-Licheng Wu（0%）：absolutely did nothing
+
 ```
 proj/
 ├── lib/
